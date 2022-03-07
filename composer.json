@@ -1,5 +1,5 @@
 {
-  "name": "teknomavi/common",
+  "name": "pd-ecommerce/common",
   "type": "library",
   "description": "Genel Yardımcı PHP Kütüphaneleri",
   "minimum-stability": "dev",
